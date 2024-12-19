@@ -1,2 +1,9 @@
 # PRODIGY_CS_01
-A Python program that can encrypt and decrypt text using the Caesar Cipher algorithm which allows users to input a message and a shift value to perform encryption and decryption.
+
+This project demonstrates a Python implementation of the Caesar Cipher, a simple encryption and decryption algorithm. The program allows users to encrypt or decrypt text using a specified shift value.
+
+Features
+Encrypt messages with a Caesar Cipher.
+Decrypt messages that were encoded with a Caesar Cipher.
+Supports both uppercase and lowercase letters.
+Retains non-alphabetic characters (e.g., spaces, numbers, punctuation) as-is.
